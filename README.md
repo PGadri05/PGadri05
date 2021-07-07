@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I´m PGadri👋
 ### About Me
 - 🔭 I’m currently working on my own GameLauncher
 - 🌱 I’m currently learning C# and Java
