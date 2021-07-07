@@ -1,5 +1,5 @@
 ## Hi there 👋
-###About Me
+### About Me
 - 🔭 I’m currently working on my own GameLauncher
 - 🌱 I’m currently learning C# and Java
 
