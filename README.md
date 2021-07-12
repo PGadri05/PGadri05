@@ -8,9 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my own GameLauncher
-- 🌱 I’m currently learning C# and Java
-- 🤔 I’m looking for help with .Net
+- 🤔 I’m looking for help with hat 
 - 💬 Ask me about ...
 - 📫 How to reach me: 
 - ⚡ Fun fact: ...
