@@ -1,7 +1,6 @@
 # About Me:
 - 🔭 I'm currently working on my own react native app<br>
 - 🌱 I'm currently learning C# & Cpp & js/ts
-- 
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pgadri05) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16696832)
